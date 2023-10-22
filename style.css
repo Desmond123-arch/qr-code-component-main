@@ -29,12 +29,11 @@ body{
 {
     width: 95%;
     height: 60%;
-    background-color: red;
     margin: auto;
     border-radius: 10px;
     margin-bottom: 15px;
     background-image: url('./images/image-qr-code.png');
-    background-size: contain;
+    background-size: cover;
 }
 .text
 {
